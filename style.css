@@ -1,0 +1,47 @@
+header{
+  padding-bottom:30px;
+}
+.top-right ul{
+ list-style:none;
+ text-align: right;
+ padding-right:30px;
+}
+.top-right li{
+  display:inline;
+}
+a{
+  text-decoration: none;
+}
+#content{
+  width:80%;
+  margin:0 auto;
+}
+#content nav{
+  width:100%;
+  display: inline;
+  text-align:center;
+}
+#content nav li{
+  display: inline;
+}
+article{
+  display:inline;
+  width:80%;
+}
+article table{
+  width:80%;
+  margin:0 auto;
+}
+tr{
+  margin:0px;
+}
+th{
+  margin:0px;
+}
+td{
+  text-align: center;
+  border: 5px solid rgba(0, 0, 0, 1);
+}
+/*#submit input{
+  margin:0 auto;
+}*/
